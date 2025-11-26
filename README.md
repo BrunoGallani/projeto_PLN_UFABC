@@ -41,7 +41,7 @@ Para rodar o projeto no Google Colab, é necessário configurar a chave da API (
 3.  **Execute o Notebook:** Após configurar o segredo, execute as células do notebook para iniciar o sistema de Perguntas e Respostas.
 ## 👥 Contribuidores
 
-| [<img src="https://github.com/BrunoGallani.png" width="75px;"/>](https://github.com/BrunoGallani) | [<img src="https://github.com/GabrielCipriano.png" width="75px;"/>](https://github.com/GabrielCipriano) | [<img src="https://github.com/rafaeltfpn.png" width="75px;"/>](https://github.com/rafaeltfpn) |
+| [<img src="https://github.com/BrunoGallani.png" width="75px;"/>](https://github.com/BrunoGallani) | [<img src="https://github.com/gabsgoms10.png" width="75px;"/>](https://github.com/gabsgoms10) | [<img src="https://github.com/rafaeltfpn.png" width="75px;"/>](https://github.com/rafaeltfpn) |
 | :---: | :---: | :---: |
 | **Bruno Augusto**<br>RA: 11202230282 | **Gabriel Cipriano**<br>RA: 11202111302 | **Rafael Coelho**<br>RA: 11202232212 | 
 
