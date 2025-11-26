@@ -38,18 +38,13 @@ Para rodar o projeto no Google Colab, é necessário configurar a chave da API (
     * No campo **Nome**, digite: `GEMINI_KEY`
     * No campo **Valor**, cole sua API Key.
     * Ative a opção **"Notebook access"** (Acesso ao notebook) para este segredo.
-
+3.  **Execute o Notebook:** Após configurar o segredo, execute as células do notebook para iniciar o sistema de Perguntas e Respostas.
 ## 👥 Contribuidores
 
-<a href="https://github.com/BrunoGallani/projeto_PLN_UFABC/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoGallani/projeto_PLN_UFABC" />
-</a>
+| [<img src="https://github.com/BrunoGallani.png" width="75px;"/>](https://github.com/BrunoGallani) | [<img src="https://github.com/GabrielCipriano.png" width="75px;"/>](https://github.com/GabrielCipriano) | [<img src="https://github.com/rafaeltfpn.png" width="75px;"/>](https://github.com/rafaeltfpn) |
+| :---: | :---: | :---: |
+| **Bruno Augusto**<br>RA: 11202230282 | **Gabriel Cipriano**<br>RA: 11202111302 | **Rafael Coelho**<br>RA: 11202232212 | 
 
-### Equipe do Projeto (FNET)
-
-* **Bruno Augusto Soares Gallani** - RA: 11202230282
-* **Gabriel Cipriano Gomes dos Santos** - RA: 11202111302
-* **Rafael de Souza Coelho** - RA: 11202232212
 
 ---
 *Projeto acadêmico - FNET*
